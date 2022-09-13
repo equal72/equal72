@@ -1,0 +1,81 @@
+Vendor	Category	Name	" Unit Price  1YR, 1copy "	"Effective Qty Yearly base"
+Synopsys	TCAD Sentaurus	Workbench	 539 	199
+Synopsys	TCAD Sentaurus	Workbench Advanced	 539 	2
+Synopsys	TCAD Sentaurus	Process	 2,124 	132
+Synopsys	TCAD Sentaurus	Process 3D	 4,428 	82
+Synopsys	TCAD Sentaurus	Device	 1,601 	184
+Synopsys	TCAD Sentaurus	Device Advanced	 1,667 	125
+Synopsys	TCAD Sentaurus	Device DSM	 784 	15
+Synopsys	TCAD Sentaurus	Device Compund	 1,242 	3
+Synopsys	TCAD Sentaurus	Device Optio	 948 	2
+Synopsys	TCAD Sentaurus	Device 3D	 3,170 	130
+Synopsys	TCAD Sentaurus	Parallel	 2,059 	391
+Synopsys	TCAD Sentaurus	Device EMW	 1,242 	22
+Synopsys	TCAD Sentaurus	Device Monte Carlo	 1,601 	2
+Synopsys	TCAD Sentaurus	Device Power	 359 	2
+Synopsys	TCAD Sentaurus	PCM studio	 327 	1
+Synopsys	TCAD Sentaurus	PCM library	 196 	1
+Synopsys	TCAD Sentaurus	Strucuture Editor	 359 	4
+Synopsys	TCAD Sentaurus	Structure Editor 3D	 899 	4
+Synopsys	TCAD Sentaurus	Topography	 2,451 	159
+Synopsys	TCAD Sentaurus	Process Kinetic MMC	 1,716 	17
+Synopsys	TCAD Sentaurus	Topography 3D	 4,902 	158
+Synopsys	TCAD Sentaurus	Interconnect	 4,902 	118
+Synopsys	TCAD Sentaurus	Visual	 229 	130
+Synopsys	TCAD Sentaurus	Process Explorer	 18,421 	74
+Synopsys	TCAD Sentaurus	Topography PMC	 92,445 	6
+Synopsys	TCAD Sentaurus	Extract	 30,000 	1
+Cadence	Virtuoso	Digital Implementation	 5,678 	50
+Cadence	Virtuoso	Analog Oasis Run-Time option	 2,433 	50
+Cadence	Virtuoso	Analog HSPICE Interface option	 2,280 	50
+Cadence	Virtuoso	Advanced Node Framework	 1,009 	50
+Cadence	Virtuoso	Schematic Editor L	 3,986 	50
+Cadence	Virtuoso	Schematic Editor XL	 5,174 	50
+Cadence	Virtuoso	Analog Design Environment L	 4,595 	50
+Cadence	Virtuoso	Analog Design Environment XL	 6,953 	50
+Cadence	Virtuoso	Analog Design Environment GXL	 28,398 	50
+Cadence	Virtuoso	LDE Analyzer Option	 39,000 	50
+Cadence	Virtuoso	ADE assembler	 7,900 	50
+Cadence	Virtuoso	Layout Suite L	 7,992 	50
+Cadence	Virtuoso	Layout suite XL	 18,570 	50
+Cadence	Virtuoso	Layout suite GXL	 22,773 	50
+Cadence	Virtuoso	Advanced Node option for layout	 11,870 	50
+Cadence	Virtuoso	Aayout Suite EAD	 30,364 	50
+Cadence	Virtuoso	Layout Suite EXL	 39,594 	50
+Cadence	Virtuoso	Integrated Physical Verification system Advanced analysis optin for IPVS	 19,845 	50
+Cadence	Virtuoso	Integrated Physical Verification system option for Virtuoso Layout Suite	 6,480 	50
+Cadence	Pegasus	03nm Node	 109,599 	1
+Cadence	Pegasus	Design Rule Check	 20,201 	30
+Cadence	Pegasus	Layout vs Schematic Check	 20,201 	25
+Cadence	Pegasus	DFM fill	 17,130 	53
+Cadence	Pegasus	Result Viewer	 2,788 	25
+Cadence	Pegasus	Design review	 7,305 	53
+Siemens	Calibre	nmLVS-H Op SW	 3,434 	86
+Siemens	Calibre	nmDRC	 4,297 	1049
+Siemens	Calibre	nmDRC-H	 4,297 	1049
+Siemens	Calibre	nmLVS Ap SW	 4,470 	86
+Siemens	Calibre	xCalibrate	 1,422 	1
+Siemens	Calibre	CI Op SW	 1,422 	30
+Siemens	Calibre	Interactive	 403 	25
+Siemens	Calibre	RVE/QDB-H	 1,322 	53
+Siemens	Calibre	DESIGNrev	 2,038 	55
+Siemens	Calibre	SVRFencrypt Sp SW	 11,087 	2
+Siemens	Calibre	ADP Op SW	 3,074 	34
+Siemens	Calibre	LFD	 23,180 	51
+Siemens	Calibre	MTLFD	 22,052 	190
+Siemens	Calibre	Litho API	 29,709 	8
+Siemens	Calibre	YieldServer Ap SW	 3,261 	19
+Siemens	Calibre	YiledAnalyzer	 7,172 	57
+Siemens	Calibre	YieldEnhancer	 7,172 	546
+Siemens	Calibre	PERC Ap SW	 14,707 	6
+Siemens	Calibre	Pattern Match	 4,336 	382
+Siemens	Calibre	InRoute Op SW	 14,707 	0
+Siemens	Calibre	xACT 3D Ap SW	 14,707 	2
+Siemens	Calibre	RealTime Ap SW	 5,719 	10
+Siemens	Calibre	Multi-patterning Op SW	 2,866 	326
+Siemens	Calibre	xRC Ap SW	 10,224 	6
+Siemens	Calibre	Multi-Patterning-Advanced Op SW	 2,753 	1
+KLA	KLA	HPA Plus	 110,000 	1
+LAM	LAM	SEM3D	 123,155 	13
+LAM	LAM	Electrical Analysis Upgrade	 44,890 	3
+LAM	LAM	SEmulator3D Analytics	 44,890 	4
